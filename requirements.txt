@@ -1,3 +1,2 @@
-Django
-
-# Additional dependencies can be added here.
+Django>=3.0,<4.0
+djangorestframework>=3.0,<4.0
